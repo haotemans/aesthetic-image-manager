@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.7",
-    "formidable-serverless": "^2.1.1"
-  },
+    "formidable-serverless": "^3.0.0"
+  }
   "devDependencies": {}
 }
